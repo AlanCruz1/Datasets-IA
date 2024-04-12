@@ -1,2 +1,2 @@
 # Datasets-IA
-Archivos cvs para prácticas y participaciones en IA
+Archivos csv para prácticas y participaciones en IA
